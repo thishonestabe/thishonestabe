@@ -24,8 +24,6 @@ Welcome to my GitHub profile! I’m a software developer passionate about buildi
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thishonestabe&theme=dark&hide_border=true)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thishonestabe&show_icons=true&theme=dark&hide_border=true&count_private=true&line_height=24)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thishonestabe&layout=compact&theme=dark&hide_border=true)
-![GitHub Contributions Graph](https://activity-graph.herokuapp.com/graph?username=thishonestabe&theme=react-dark)
-
 
 ---
 
