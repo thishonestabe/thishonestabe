@@ -1,4 +1,4 @@
-# Hi there, I'm Abe! 👋
+# Hi there, I'm Albert! 👋
 
 Welcome to my GitHub profile! I’m a software developer passionate about building impactful applications and exploring modern tech stacks.
 
